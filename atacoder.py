@@ -4,11 +4,6 @@
 import numpy as np
 import sys
 
-import pyro
-import pyro.infer
-import pyro.optim
-import pyro.distributions as distr
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
